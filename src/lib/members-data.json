@@ -1,0 +1,61 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "firstName": "Burak",
+      "lastName": "Karakaya",
+      "phone": "05524953476",
+      "level": "İleri",
+      "registrationDate": "2025-09-30",
+      "notes": "",
+      "isActive": false,
+      "payments": [
+        {
+          "id": 1,
+          "date": "2025-09-30",
+          "amount": 1000,
+          "period": "2025-09",
+          "note": "İLK AYLIK ÖDEME"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "firstName": "Fatih",
+      "lastName": "Dağhan",
+      "phone": "05524953476",
+      "level": "Orta",
+      "registrationDate": "2025-09-30",
+      "notes": "",
+      "isActive": true,
+      "payments": [
+        {
+          "id": 1,
+          "date": "2025-09-30",
+          "amount": 1000,
+          "period": "2020-02",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "firstName": "Kaan",
+      "lastName": "Arslan",
+      "phone": "05414878651",
+      "level": "İleri",
+      "registrationDate": "2025-10-03",
+      "notes": "gay",
+      "isActive": false,
+      "payments": [
+        {
+          "id": 1,
+          "date": "2025-10-03",
+          "amount": 2500,
+          "period": "2025-10",
+          "note": "1. ay ödemesi ilk ödeme"
+        }
+      ]
+    }
+  ]
+}

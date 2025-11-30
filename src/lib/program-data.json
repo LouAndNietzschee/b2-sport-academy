@@ -1,0 +1,31 @@
+{
+  "schedule": {
+    "13:00": {
+      "pazartesi": "",
+      "sali": "",
+      "çarşamba": "",
+      "perşembe": "",
+      "cuma": "",
+      "cumartesi": "Open Mat",
+      "pazar": ""
+    },
+    "19:00": {
+      "pazartesi": "Capoeira",
+      "sali": "",
+      "çarşamba": "Capoeira",
+      "perşembe": "",
+      "cuma": "",
+      "cumartesi": "",
+      "pazar": ""
+    },
+    "20:00": {
+      "pazartesi": "MMA",
+      "sali": "Kickboxing",
+      "çarşamba": "MMA",
+      "perşembe": "Kickboxing",
+      "cuma": "MMA",
+      "cumartesi": "",
+      "pazar": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "filename": "1.jpg",
+      "path": "/photo/galeri/1.jpg",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "filename": "2.jpg",
+      "path": "/photo/galeri/2.jpg",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "filename": "3.webp",
+      "path": "/photo/galeri/3.webp",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "filename": "4.webp",
+      "path": "/photo/galeri/4.webp",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "filename": "5.webp",
+      "path": "/photo/galeri/5.webp",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "filename": "6.webp",
+      "path": "/photo/galeri/6.webp",
+      "order": 6
+    }
+  ]
+}

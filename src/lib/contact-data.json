@@ -1,0 +1,15 @@
+{
+  "contact": {
+    "phone": "+90 540 300 14 34",
+    "phoneLink": "https://api.whatsapp.com/send/?phone=905403001434&text&type=phone_number&app_absent=0",
+    "email": "info@b2sportacademy.com",
+    "address": "Şerifali, Kale Sokağı No: 12G",
+    "addressDetail": "34775 Ümraniye/İstanbul",
+    "mapLink": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x14cacf9b0ec1463f:0xb460ed2d74e84859?sa=X&ved=1t:8290&ictx=111",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.2684734!2d29.1234!3d41.0234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacf9b0ec1463f%3A0xb460ed2d74e84859!2sB2%20Sport%20Academy!5e0!3m2!1str!2str!4v1234567890",
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/b2sportacademy/",
+      "facebook": "https://www.facebook.com/b2sportacademy/"
+    }
+  }
+}

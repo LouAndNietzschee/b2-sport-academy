@@ -1,0 +1,40 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "MMA nedir?",
+      "answer": "Mixed Martial Arts (MMA), farklı dövüş sanatlarının birleştirildiği modern bir spor dalıdır. Kickboks, boks, güreş, jiu-jitsu gibi tekniklerin harmanlandığı bu spor, hem ayakta hem de yerde mücadele etmeyi içerir.",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "question": "Diğer dövüş sporlarından farkı nedir?",
+      "answer": "MMA, tek bir dövüş sanatına odaklanmak yerine birden fazla teknik öğrenmenizi sağlar. Bu da hem fiziksel hem de mental olarak daha kapsamlı bir gelişim sunar.",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "question": "Hiç spor geçmişim yok, başlayabilir miyim?",
+      "answer": "Hiç sorun değil! Akademimizde her seviyeden öğrenciye uygun programlar bulunmaktadır. Başlangıç seviyesindeki öğrenciler için özel temel eğitim programlarımız mevcuttur.",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "question": "İlk Ders Ücretli midir?",
+      "answer": "Hayır, Deneme dersi için bizimle iletişime geçmeniz yeterli. Size uygun bir tarih belirleyip, gerekli ekipmanları temin ederek derse katılabilirsiniz.",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "question": "Ekipman edinmem gerekiyor mu?",
+      "answer": "İlk dersler için temel ekipmanları akademimiz sağlamaktadır. Düzenli katılım için kendi ekipmanlarınızı edinmeniz önerilir.",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "question": "Savunmaya yönelik midir?",
+      "answer": "Evet, MMA eğitimimiz kişisel savunma tekniklerini de içerir. Öncelikle spor ve disiplin odaklı bir yaklaşım benimseriz.",
+      "order": 6
+    }
+  ]
+}
