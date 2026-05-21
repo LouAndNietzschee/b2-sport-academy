@@ -1,13 +1,13 @@
 {
   "schedule": {
-    "11:00": {
+    "10:00": {
       "pazartesi": "",
       "sali": "",
       "çarşamba": "",
       "perşembe": "",
       "cuma": "",
-      "cumartesi": "Çocuk Kick Boks",
-      "pazar": "Çocuk Kick Boks"
+      "cumartesi": "Çocuk Kickboks",
+      "pazar": "Çocuk Kickboks"
     },
     "13:00": {
       "pazartesi": "",
@@ -29,10 +29,10 @@
     },
     "20:00": {
       "pazartesi": "MMA",
-      "sali": "Kickboxing",
+      "sali": "Bjj",
       "çarşamba": "MMA",
       "perşembe": "Kickboxing",
-      "cuma": "MMA",
+      "cuma": "Grappling",
       "cumartesi": "",
       "pazar": ""
     }
