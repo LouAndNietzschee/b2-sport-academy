@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "B2 Sport Academy - Where Science Meets Mixed Martial Arts",
-  description: "At B2 Sport Academy we provide world-class coaching, inspirational mentors, accountability and an incredible community to help you achieve your fitness goals, train hard and dream big.",
+  title: "B2 Sport Academy",
+  description: "B2 Sport Academy'de yaş, cinsiyet seviye fark etmeksizin herkes için disiplinli ve güçlü dövüş antrenmanları. İlk adımı atanlardan profesyonellere kadar herkes burada kendi potansiyelini keşfeder.",
 };
 
 export default function RootLayout({
